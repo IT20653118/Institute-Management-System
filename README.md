@@ -9,7 +9,7 @@ Please go under edit and edit this file as needed for your project
 ### Member 5 - IT20658472 - Miss.D.I.Weerapperuma (IT20658472)
 ### Member 6 - IT20648190 - Mr. M.N.T.Ahmed (IT20648190)
 ### Member 7 - IT20644680 - Mr. M.A.M.Aathif (IT20644680)
-### Member 8 - IT20653118 - Mr. Y.W.S.H.Wishvajith (IT-20653118)
+### Member 8 - IT20653118 - Mr. Y.W.S.H.Wishvajith (IT20653118)
 
 #### Brief Description of Project - This is an institute management system designed to the client “Laboratory Palawatta” which is 
 located at Pitigala, Pahala hewassa road, Palawatta.This system is designed to fit any education institute implementing classes for school children. 
