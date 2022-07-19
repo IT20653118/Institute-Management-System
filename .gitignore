@@ -1,0 +1,3 @@
+INSTITUTE_MANAGEMENT/api/node_modules
+INSTITUTE_MANAGEMENT/client/node_modules
+INSTITUTE_MANAGEMENT/api/node_modules/bcrypt/lib/binding/napi-v3/bcrypt_lib.node
